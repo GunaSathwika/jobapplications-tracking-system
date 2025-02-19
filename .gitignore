@@ -2,6 +2,9 @@
 
 .env
 
+client/README.md
+server/README.md
+
 # dependencies
 server/node_modules
 client/node_modules
